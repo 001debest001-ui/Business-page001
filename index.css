@@ -1,0 +1,48 @@
+.main{
+  text-align: center;
+  margin-left: 15%;
+  margin-right: 15%;
+  color:white;
+}
+.img{
+  border-radius: 90%;
+  height:100px;
+  width: 100px;
+  float: left;
+}
+.web{
+  background-image: url(web.jpeg);
+  height:250px;
+ width:100%;
+ text-align: center;
+ 
+}
+.web1{
+  padding-top:25%;
+  padding-bottom: 25%;
+  
+}
+.n{
+  background-color:grey;
+}
+.intro{
+  font-size:80%;
+}
+.q{
+  border-radius: 90%;
+  height: 100px;
+  width: 100px;
+  float: right;
+}
+.c{
+  border-radius: 90%;
+  height:100px;
+  width: 100px;
+  float: left;
+}
+.about{
+  font-size: 80%;
+}
+.cont{
+  font-size: 80%;
+}
